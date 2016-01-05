@@ -220,28 +220,32 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
-    disabled_channels = {},
-    realm = {data = 'data/moderation.json'},--Realms Id
+    sudo_users = {109722284,165727799,171604508,99743635,0,tonumber(our_id)},--Sudo users
+    disabled_channels = {84362162,42107060,66973600},
+    realm = {84362162,42107060,66973600,'data/moderation.json'},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
-
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
+    about_text = [[Infernall* v1
+sudouser : @Arashinfernal,@GmorInfernal
+ The Security TEAM😱
+INFERNAL™
+〰〰〰〰〰〰〰〰〰〰〰〰
+Admins :
+@digitalboys [Sudoer & founder]
+@Arashinfernal [Sudoer & Developer]
+@GmorInfernal [Master Sudoer & Developer]
+@Creed_is_dead [Manager]
+@MustafaFLux [Sudoer & founder]
 Our channels
-@teleseedch [English]
+@INFERNALTEAM [persian]
+@INFERNALCHANNEl : [persian]
+@infernalTEAMch : [English]
+Specially thanks to ...
+#1 > imandaneshi 
+#2 > DigitalBoys
+#3 > ThisIsArman
+#4 > MustafaFLux
+#5 > linux
+#6 > yago-perez
 ]],
     help_text = [[
 Commands list :
